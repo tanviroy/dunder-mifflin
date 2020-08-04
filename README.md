@@ -12,6 +12,6 @@ Used a standard template for the site to make it look pRoFeSsIoNaL.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-I would like to thank [Aayush Kumar](https://www.instagram.com/aayush_ko_mar/) for creating the witty content on the site. 
+I would like to thank Aayush Kumar for creating the witty content on the site. 
 I would like to credit my really cool CS Professor Debayan Gupta (again) for being the reason behind my interest in CS. 
 I would also like to thank my best friend "smol gurl" for being my biggest inspiration. 
